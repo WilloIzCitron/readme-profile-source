@@ -28,8 +28,6 @@ Photo Editor:
 <code><a href="https://www.adobe.com/products/photoshop.html"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
 <code><a href="https://www.getpaint.net/"><img height="20" src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/Cuplikan%20layar%202020-10-20%20101505.png?raw=true"></a></code>
 
-- <img src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/ezgif.com-gif-maker.gif?raw=true" width="20" height="20"/> i have 3 pets
-
 <details>
   <summary>Badges:</summary>
   
