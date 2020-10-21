@@ -12,8 +12,8 @@ im making a codes and assist a devs
 <code><img height="20" src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/CSS3_logo_and_wordmark.svg.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/800px-C_Sharp_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/readme-profile-source/main/c-programming.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/readme-profile-source/main/nodejs-seeklogo.com.svg"></code>
 
 - 🔧 My Tools Is:
 
