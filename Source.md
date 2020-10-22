@@ -14,13 +14,15 @@ im making a codes and assist a devs
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/readme-profile-source/main/c-programming.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/readme-profile-source/main/nodejs-seeklogo.com.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"></code>
 
 - 🔧 My Tools Is:
 
 GameEngine: 
 <code><a href="https://unity.com/"><img height="20" src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/unity-tab-square-black.png?raw=true"></a></code>
-<code><a href="https://unity.com/"><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/readme-profile-source/main/kisspng-unreal-engine-4-firebird-la-peri-gears-of-war-ga-smite-logo-5b4bae2ad37179.2344806315316864428661.png"></a></code>
-<code><a href="https://unity.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"></a></code>
+<code><a href="https://www.unrealengine.com/"><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/readme-profile-source/main/kisspng-unreal-engine-4-firebird-la-peri-gears-of-war-ga-smite-logo-5b4bae2ad37179.2344806315316864428661.png"></a></code>
+<code><a href="https://godotengine.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"></a></code>
 
 IDE: 
 <code><a href="https://code.visualstudio.com/download"><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/vs-code-responsive-01-1.png"></a></code>
